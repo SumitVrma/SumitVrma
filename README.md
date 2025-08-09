@@ -21,15 +21,14 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25" /> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Connect with me:**  
 
 <p align="left">
-  <a href="https://linkedin.com/in/sumit-verma" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/sumit__verma___" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+<a href="mailto:jindalm55@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-jindal-ab40a825b/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Mohit" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mohit_jindal22/"  target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mohit" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohit.jindal22/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="Mohit" height="30" width="40" /></a>
+
 </p>
 
 ---
