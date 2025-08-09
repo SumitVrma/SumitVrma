@@ -110,14 +110,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitvrma&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💻 LeetCode Stats
 
 <div align="center">
@@ -131,17 +123,3 @@
 </div>
 ```
 
-This README file includes:
-
-1. **Professional header** with your name and title
-2. **Profile views counter** to track visitors
-3. **Current work and learning** sections
-4. **Skills and contact information**
-5. **Social media links** with icons
-6. **Languages and tools** with visual icons
-7. **GitHub statistics** with dark theme
-8. **GitHub trophies** showcase
-9. **LeetCode stats** integration
-10. **Clean, modern formatting** that matches the dark theme from your images
-
-The file uses proper markdown syntax and will render beautifully on your GitHub profile. Simply copy this content to your `README.md` file in your GitHub profile repository (username/username repository).
