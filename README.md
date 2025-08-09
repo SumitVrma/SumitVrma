@@ -36,7 +36,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,sklearn,mysql,postgres,nextjs,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,git,github,netlify,vscode,matlab,ps,aws,linux,androidstudio,arduino,stackoverflow,docker,redux,angular,tailwindcss&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,java,mysql,nextjs,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,git,github,vscode,aws,linux,stackoverflow,docker,redux,angular,tailwindcss&perline=13)](#)
 ---
 
 ## 📊 GitHub Activity Graph
