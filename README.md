@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Sumit Verma
+# Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="Waving Hand" width="40" /> I'm Sumit Verma
 
 ### 💻 Full Stack Developer | 🚀 Passionate about Building Scalable Web Applications
 
@@ -19,27 +19,22 @@
 ## 💬 Ask Me About
 - **React.js**, **Next.js**, **Node.js**, **JavaScript (ES6+)**, **TypeScript**
 
-## 📫 Reach Me At
-- **Email:** sumitabcd574@gmail.com
-- **LinkedIn:** [Sumit Verma](https://linkedin.com/in/sumit-verma)
-- **LeetCode:** [sumit__verma___](https://leetcode.com/sumit__verma___)
-
 ---
 
-## 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="25" height="25" /> Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/sumit-verma" target="blank">
+  <a href="https://linkedin.com/in/sumit-verma" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/sumit__verma___" target="blank">
+  <a href="https://leetcode.com/sumit__verma___" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" /> Languages & Tools
 
 <p align="center">
   <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="48" height="48"/></a>
@@ -64,6 +59,11 @@
 
 ---
 
+## 📊 GitHub Activity Graph
+[![Sumit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumitvrma&theme=github-compact)](https://github.com/sumitvrma/github-readme-activity-graph) 
+
+---
+
 ## 💻 LeetCode Stats
 
 <div align="center">
@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br/>
   <i>Happy Coding! 😊</i>
 </div>
-
-
