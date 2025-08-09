@@ -1,27 +1,69 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Verma;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+Expert;Building+Amazing+Web+Experiences" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Sumit Verma</h1>
+<h3 align="center">💻 Full Stack Developer | 🚀 Passionate about Building Scalable Web Applications</h3>
 
-<h3 align="center">🚀 Passionate Full Stack Developer from India 🇮🇳</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitvrma&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sumitvrma?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumitvrma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sumitvrma&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-## 🎯 About Me
+### 🔭 Current Work
+- Working on **E-Marketing Astrologer**
 
-```javascript
-const sumitVerma = {
-    location: "India 🇮🇳",
-    role: "Full Stack Developer",
-    currentFocus: "Building scalable web applications",
-    currentProject: "E-Marketing Astrologer Platform",
-    learning: ["Next.js", "Advanced React Patterns", "System Design"],
-    expertise: ["React.js", "Next.js", "Node.js", "JavaScript", "TypeScript"],
-    askMeAbout: ["Web Development", "React Ecosystem", "Backend Architecture"],
-    contact: "sumitabcd574@gmail.com",
-    funFact: "I turn coffee into code ☕ → 💻"
-};
+### 🌱 Currently Learning
+- **Next.js** for modern, server-side rendered React applications
+
+### 💬 Ask Me About
+- **React.js**, **Next.js**, **Node.js**, **JavaScript (ES6+)**, **TypeScript**
+
+### 📫 Reach Me At
+- **Email:** sumitabcd574@gmail.com  
+- **LinkedIn:** [Sumit Verma](https://linkedin.com/in/sumit-verma)  
+- **LeetCode:** [sumit__verma___](https://leetcode.com/sumit__verma___)
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/sumit-verma-17b62b339/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/Sumit__Verma___/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+<p align="left">
+  <a href="https://angular.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitvrma&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitvrma&theme=radical" alt="GitHub Streak" />
+</p>
